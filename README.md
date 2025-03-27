@@ -67,3 +67,18 @@ A quick look into how Git actually stores information:
 - **Index (`.git/index`)** – The staging area
 - **Config (`.git/config`)** – Repo-specific settings
 - **Logs (`.git/logs/`)** – History of branch movements and HEAD changes
+
+---
+
+## Appendix
+
+#### Main differences between VCSes
+
+| **Feature**       | **Git** (Distributed) | **Mercurial** (Distributed) | **SVN** (Centralized) |
+|--------------|----------------------|-------------------------|---------------------|
+| **Repository Model** | Distributed (local copies) | Distributed (local copies) | Centralized (server-based) |
+| **Branching**   | Lightweight, fast | Permanent, uses bookmarks | Heavy, slow |
+| **Speed**       | Very fast | Fast but slower than Git | Slower |
+| **History Model** | Snapshot-based | Snapshot-based | Changeset-based |
+| **History Rewriting** | Allowed (`rebase`, `amend`) | Discouraged | Not possible |
+| **Popularity**  | Very high | Declining | Low (but still in use) |
