@@ -27,13 +27,13 @@
 ---
 
 ### **3. Best Practices for Working with Git**
-#### **3a. Open Source Projects**
+#### **Open Source Projects**
 - Forking and cloning projects
 - Pull requests (PRs) and code reviews
 - Keeping your fork updated (`git rebase`, `git merge`)
 - Contribution guidelines (commit messages, issue tracking)
 
-#### **3b. Private/Team Projects**
+#### **Private/Team Projects**
 - Branching strategy (Git Flow, GitHub Flow, Trunk-based)
 - Feature branches and pull request workflow
 - Code review policies
