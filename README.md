@@ -1,10 +1,10 @@
 # Git crash course
 
 ### **1. What is Git? (Fast)**
-- **Definition:** A distributed version control system.
-- **Why use it?** Tracks changes, enables collaboration, and prevents data loss.
+- **Definition:** A distributed version control system
+- **Why use it?** Tracks changes, enables collaboration, and prevents data loss
 - **How it differs from other VCS?** (e.g., SVN, Mercurial)
-- **Git vs. GitHub:** Briefly clarify the difference.
+- **Git vs. GitHub:** Briefly clarify the difference
 
 ---
 
