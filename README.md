@@ -11,7 +11,7 @@
 ### **2. Git Features**
 #### **Basic Features:**
 - Repositories (`git init`, `git clone`)
-- Commits (`git add`, `git commit`, `git log`)
+- Commits (`git diff`, `git add`, `git commit`, `git log`)
 - Branching (`git branch`, `git checkout`, `git switch`, `git merge`)
   - [Merge strategies](https://git-scm.com/docs/merge-strategies) (a brief introduction)
 - Remote Repos (`git push`, `git pull`, `git fetch`)
